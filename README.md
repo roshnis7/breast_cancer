@@ -1,5 +1,11 @@
 # breast_cancer
 
+Using the following code to read the data set.
+
+
+wisc_bc_df <- read.csv("C:/Users/roshn/Desktop/RBS/mav/wisc_bc_df.csv")
+wisc_bc_df
+
 Hello,
 Our data set about breast cancer.
 Our Problem Statement is as follows :
