@@ -1,5 +1,12 @@
 # breast_cancer
 
+As a part of Assignment H.W 2:
+I have uploaded 3 files:
+1. updated R script
+2. pdf document of analysis
+3. html file
+
+
 Using the following code to read the data set.
 
 
