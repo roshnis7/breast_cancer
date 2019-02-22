@@ -11,7 +11,7 @@ Part B] Questions:
 1.How are the various measurements related?
 2.Are there statistically significant differences between Benign and Malignant patients for the mean values of the variables?
 3. Do the Benign and Malignant show similar amounts of variation for the variables?
------------------------------------------------------------------------------------------------------------------------------------
+
 
 As a part of Assignment H.W 2:
 I have uploaded 3 files:
