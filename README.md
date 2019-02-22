@@ -1,4 +1,17 @@
 # breast_cancer
+H.W 3 due 02/22/2019
+Files uploaded :
+1.R code
+2.Html file
+3.Questions in Read.md (which is as below)
+4.Data Dictionary
+
+Part A] We have performed 3 tests on our data set and have uploaded the updated R code i.e breast_cancer.R
+Part B] Questions:
+1.How are the various measurements related?
+2.Are there statistically significant differences between Benign and Malignant patients for the mean values of the variables?
+3. Do the Benign and Malignant show similar amounts of variation for the variables?
+-----------------------------------------------------------------------------------------------------------------------------------
 
 As a part of Assignment H.W 2:
 I have uploaded 3 files:
