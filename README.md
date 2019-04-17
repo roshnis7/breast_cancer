@@ -1,6 +1,5 @@
 # breast_cancer
-H.W 3 due 02/22/2019
-Files uploaded :
+
 1.R code
 2.Html file
 3.Questions in Read.md (which is as below)
